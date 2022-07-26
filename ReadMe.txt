@@ -6,6 +6,21 @@ Place the contents of GameData/ into your KSP/GameData/ directory and install ne
 
 EARLY DEV VERSION - USE WITH CAUTION
 
+DEPENDENCIES
+
+B9 Part Switch
+Animated Decouplers
+Breaking Ground DLC
+Module Manager
+
+SUPPORTED MODS
+
+Waterfall (partial support)
+
+RECOMMENDED MODS
+
+Benjee10_sharedAssets
+
 Known issues:
 
 - No Kerbal portraits/IVA on Orion Capsule
@@ -20,6 +35,8 @@ Still to do:
 - Texture improvements
 - Specular textures
 - Compatibility patches
+- Rotate parachutes for easier construction
+- Non-BG support patch
 
 Feedback requested on:
 
