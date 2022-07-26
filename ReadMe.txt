@@ -28,6 +28,8 @@ Known issues:
 - No ladder collider on Orion capsule
 - Fairing panel ejection issues
 - Parachute drag issues
+- Possible aero/shielding issue on abort tower
+- Capsule yaw thrusters have no effect
 
 Still to do:
 
