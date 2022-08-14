@@ -1,4 +1,4 @@
-Benjee10_Orion 0.0.1
+Benjee10_Orion 0.0.2
 A part library for Kerbal Space Program 1.11.0+ by Benjee10.
 
 INSTALLATION
@@ -10,8 +10,10 @@ DEPENDENCIES
 
 B9 Part Switch
 Animated Decouplers
-Breaking Ground DLC
+Breaking Ground DLC (should now work without this installed, though lacking adjustable solar panel angle)
 Module Manager
+Shabby
+Shaddy
 
 SUPPORTED MODS
 
@@ -25,10 +27,7 @@ Known issues:
 
 - No Kerbal portraits/IVA on Orion Capsule
 - No colliders on double drogue chute caps
-- No ladder collider on Orion capsule
 - Fairing panel ejection issues
-- Parachute drag issues
-- Possible aero/shielding issue on abort tower
 - Capsule yaw thrusters have no effect
 
 Still to do:
@@ -37,8 +36,6 @@ Still to do:
 - Texture improvements
 - Specular textures
 - Compatibility patches
-- Rotate parachutes for easier construction
-- Non-BG support patch
 
 Feedback requested on:
 
