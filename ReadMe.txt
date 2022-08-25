@@ -1,5 +1,5 @@
-Benjee10_Orion 0.0.2
-A part library for Kerbal Space Program 1.11.0+ by Benjee10.
+Benjee10_Orion 0.0.3
+A part library for Kerbal Space Program 1.12.0+ by Benjee10.
 
 INSTALLATION
 Place the contents of GameData/ into your KSP/GameData/ directory and install necessary dependencies.
@@ -25,7 +25,6 @@ Benjee10_sharedAssets
 
 Known issues:
 
-- No Kerbal portraits/IVA on Orion Capsule
 - No colliders on double drogue chute caps
 - Fairing panel ejection issues
 - Capsule yaw thrusters have no effect
