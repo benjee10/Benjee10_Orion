@@ -1,5 +1,5 @@
-Benjee10_Orion 0.0.3
-A part library for Kerbal Space Program 1.12.0+ by Benjee10.
+Benjee10_Orion 0.0.4
+A part library for Kerbal Space Program 1.11.0+ by Benjee10.
 
 INSTALLATION
 Place the contents of GameData/ into your KSP/GameData/ directory and install necessary dependencies.
@@ -10,14 +10,13 @@ DEPENDENCIES
 
 B9 Part Switch
 Animated Decouplers
-Breaking Ground DLC (should now work without this installed, though lacking adjustable solar panel angle)
 Module Manager
-Shabby
-Shaddy
 
-SUPPORTED MODS
+OPTIONAL DEPENDENCIES
 
-Waterfall (partial support)
+Shabby & Shaddy
+Breaking Ground DLC
+Waterfall
 
 RECOMMENDED MODS
 
