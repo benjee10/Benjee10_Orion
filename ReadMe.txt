@@ -25,14 +25,11 @@ Benjee10_sharedAssets
 Known issues:
 
 - No colliders on double drogue chute caps
-- Fairing panel ejection issues
 - Capsule yaw thrusters have no effect
 
 Still to do:
 
 - Flag decals
-- Texture improvements
-- Specular textures
 - Compatibility patches
 
 Feedback requested on:
