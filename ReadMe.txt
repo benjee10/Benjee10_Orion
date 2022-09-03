@@ -28,8 +28,10 @@ CHANGELOG
 	- Added SLS parts
 	- Restructured directories
 	- Balance changes
+	- Added probe core to Orion Capsule
 	- Added SLS 5 segment booster by Dylan Semrau
 	- Added RS-25 engine by EStreetRockets
+	- Added ICPS & RL-10 parts by Zorg/CobaltWolf
 	- Added compatibility/integration patches for Photon Corp, BDB & RMM
 
 1.0.0 - Initial Release
