@@ -20,7 +20,7 @@ OPTIONAL DEPENDENCIES
 
 Shabby & Shaddy - adds translucent shaders to the Orion chutes
 Breaking Ground DLC - adds variable sweep to the Orion solar arrays
-Waterfall - adds nicer plume FX for the RCS thrusters & abort tower. Configs by Rodg88
+Waterfall - adds nicer plume FX for the RCS thrusters & abort tower
 
 CHANGELOG
 
@@ -42,6 +42,7 @@ SLS Core Stage by Dylan Semrau & Benjee10
 SLS Boosters provided by Photon Corp (Dylan Semrau)
 ICPS & RL10 Engine provided by Bluedog Design Bureau (CobaltWolf & Zorg)
 RS-25 provied by Rocket Motor Menagerie (EStreetRockets)
+Waterfall configs by Rodg88
  
 LICENSE
 All Rights Reserved.
