@@ -1,7 +1,7 @@
 Artemis Construction Kit 1.1.0
 A parts mod for Kerbal Space Program 1.12.3+ by Benjee10.
 
-ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions.
+ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions, currently featuring Orion & SLS Block 1. 
 
 INSTALLATION
 Place the contents of GameData/ into your KSP/GameData/ directory. Dependencies are bundled with the release of this mod. 
@@ -21,6 +21,10 @@ OPTIONAL DEPENDENCIES
 Shabby & Shaddy - adds translucent shaders to the Orion chutes
 Breaking Ground DLC - adds variable sweep to the Orion solar arrays
 Waterfall - adds nicer plume FX for the RCS thrusters & abort tower
+
+FUTURE PLANS
+
+SLS Block 1B parts
 
 CHANGELOG
 
