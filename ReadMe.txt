@@ -1,7 +1,7 @@
-Artemis Construction Kit 1.1.0
+Artemis Construction Kit 1.2.0 beta
 A parts mod for Kerbal Space Program 1.12.3+ by Benjee10.
 
-ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions, currently featuring Orion & SLS Block 1. 
+ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions, currently featuring Orion & SLS. 
 
 INSTALLATION
 Place the contents of GameData/ into your KSP/GameData/ directory. Dependencies are bundled with the release of this mod. 
@@ -15,6 +15,7 @@ Benjee10 Shared Assets
 HabTechProps
 Deployable Engines
 Community Resource Pack
+Simple Adjustable Fairings
 
 OPTIONAL DEPENDENCIES
 
@@ -24,9 +25,15 @@ Waterfall - adds nicer plume FX for the RCS thrusters & abort tower
 
 FUTURE PLANS
 
-SLS Block 1B parts
-
 CHANGELOG
+
+1.2.0 - SLS Block 1B
+	- Added Exploration Upper Stage parts
+	- Added Universal Stage Adapter parts
+	- Added 5m fairing parts
+	- Added RL10C-3 engine from Bluedog Design Bureau
+	- Balance changes
+	- Fixed booster FX not showing if Restock is installed
 
 1.1.0 - SLS Update
 	- Added SLS parts
