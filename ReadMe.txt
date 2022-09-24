@@ -31,9 +31,12 @@ CHANGELOG
 	- Added Exploration Upper Stage parts
 	- Added Universal Stage Adapter parts
 	- Added 5m fairing parts
+	- Added 6.25m fairing variant
 	- Added RL10C-3 engine from Bluedog Design Bureau
 	- Balance changes
 	- Fixed booster FX not showing if Restock is installed
+	- Fixed compatibility issue with BDB B9PartSwitch paint variants
+	- Updated craft files
 
 1.1.0 - SLS Update
 	- Added SLS parts
@@ -54,6 +57,8 @@ SLS Boosters provided by Photon Corp (Dylan Semrau)
 ICPS & RL10 Engine provided by Bluedog Design Bureau (CobaltWolf & Zorg)
 RS-25 provied by Rocket Motor Menagerie (EStreetRockets)
 Waterfall configs by Rodg88
+
+With thanks to DeltaDizzy (research) & Steven (screenshots & testing)
  
 LICENSE
 All Rights Reserved.
