@@ -22,6 +22,7 @@ OPTIONAL DEPENDENCIES
 Shabby & Shaddy - adds translucent shaders to the Orion chutes
 Breaking Ground DLC - adds variable sweep to the Orion solar arrays
 Waterfall - adds nicer plume FX for the RCS thrusters & abort tower
+Community Category Kit
 
 FUTURE PLANS
 
@@ -33,6 +34,8 @@ CHANGELOG
 	- Added integrated SRB separation motor
 	- Added 'Lightweight Composite' variant upgrade to EUS
 	- Added probe core to SLS core stage
+	- Added flags
+	- Added Community Category Kit support courtesy of Lennon
 
 1.2.0 - SLS Block 1B
 	- Added Exploration Upper Stage parts
@@ -64,6 +67,7 @@ SLS Boosters provided by Photon Corp (Dylan Semrau)
 ICPS & RL10 Engine provided by Bluedog Design Bureau (CobaltWolf & Zorg)
 RS-25 provied by Rocket Motor Menagerie (EStreetRockets)
 Waterfall configs by Rodg88
+CCK implementation by Lennon
 
 With thanks to DeltaDizzy (research) & Steven (screenshots & testing)
  
