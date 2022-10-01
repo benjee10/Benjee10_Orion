@@ -28,8 +28,8 @@ FUTURE PLANS
 
 CHANGELOG
 
-1.3.0 - SLS Block II
-	- Added BOLE (Block II booster) parts
+1.3.0 - SLS Block 2
+	- Added BOLE (Block 2 booster) parts
 	- Added BOLE decoupler
 	- Added integrated SRB separation motor
 	- Added 'Lightweight Composite' variant upgrade to EUS
