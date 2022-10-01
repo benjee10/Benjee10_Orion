@@ -1,4 +1,4 @@
-Artemis Construction Kit 1.3.0 beta
+Artemis Construction Kit 1.3.0
 A parts mod for Kerbal Space Program 1.12.3+ by Benjee10.
 
 ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions, currently featuring Orion & SLS. 
@@ -24,8 +24,6 @@ Breaking Ground DLC - adds variable sweep to the Orion solar arrays
 Waterfall - adds nicer plume FX for the RCS thrusters & abort tower
 Community Category Kit
 
-FUTURE PLANS
-
 CHANGELOG
 
 1.3.0 - SLS Block 2
@@ -36,6 +34,7 @@ CHANGELOG
 	- Added probe core to SLS core stage
 	- Added flags
 	- Added Community Category Kit support courtesy of Lennon
+	- Updated craft files
 
 1.2.0 - SLS Block 1B
 	- Added Exploration Upper Stage parts
