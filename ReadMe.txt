@@ -1,4 +1,4 @@
-Artemis Construction Kit 1.3.0
+Artemis Construction Kit 1.4.0
 A parts mod for Kerbal Space Program 1.12.3+ by Benjee10.
 
 ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions, currently featuring Orion & SLS. 
@@ -19,12 +19,17 @@ Simple Adjustable Fairings
 
 OPTIONAL DEPENDENCIES
 
-Shabby & Shaddy - adds translucent shaders to the Orion chutes
+Shaddy & Textures Unlimited - adds translucent shaders to the Orion chutes
 Breaking Ground DLC - adds variable sweep to the Orion solar arrays
 Waterfall - adds nicer plume FX for the RCS thrusters & abort tower
 Community Category Kit
 
 CHANGELOG
+
+1.4.0 - Development version
+	- Added Lockheed Martin Lunar Lander parts
+	- Added Orion Solar Array wing cameras (with Neptune Camera support)
+	- Switched to Textures Unlimited for Shaddy implementation (optional)
 
 1.3.0 - SLS Block 2
 	- Added BOLE (Block 2 booster) parts
