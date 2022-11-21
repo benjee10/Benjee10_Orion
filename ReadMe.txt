@@ -1,4 +1,4 @@
-Artemis Construction Kit 1.4.0
+Artemis Construction Kit 1.4.0 Dev Versions
 A parts mod for Kerbal Space Program 1.12.3+ by Benjee10.
 
 ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions, currently featuring Orion & SLS. 
