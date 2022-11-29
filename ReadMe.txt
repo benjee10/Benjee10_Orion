@@ -1,10 +1,10 @@
 Artemis Construction Kit 1.4.0 Dev Versions
 A parts mod for Kerbal Space Program 1.12.3+ by Benjee10.
 
-ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions, currently featuring Orion & SLS. 
+ARTEMIS CONSTRUCTION KIT adds parts inspired by NASA's Artemis missions, currently featuring Orion, SLS and lunar lander parts. 
 
 INSTALLATION
-Place the contents of GameData/ into your KSP/GameData/ directory. Dependencies are bundled with the release of this mod. 
+Place the contents of GameData/ into your KSP/GameData/ directory. Essential dependencies are bundled with the release of this mod. 
 
 DEPENDENCIES
 
@@ -28,7 +28,12 @@ CHANGELOG
 
 1.4.0 - Development version
 	- Added Lockheed Martin Lunar Lander parts
-	- Added Orion Solar Array wing cameras (with Neptune Camera support)
+	- Added Orion Solar Array wing cameras
+	- Added Orion star tracker
+	- Added Orion optical comms system
+	- Updated Orion service module model & textures 
+	- Updated Orion auxiliary thruster model & textures
+	- Added Neptune Camera support to multiple parts
 	- Switched to Textures Unlimited for Shaddy implementation (optional)
 
 1.3.0 - SLS Block 2
