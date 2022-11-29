@@ -35,6 +35,7 @@ CHANGELOG
 	- Updated Orion auxiliary thruster model & textures
 	- Added Neptune Camera support to multiple parts
 	- Switched to Textures Unlimited for Shaddy implementation (optional)
+	- Updated craft files
 
 1.3.0 - SLS Block 2
 	- Added BOLE (Block 2 booster) parts
