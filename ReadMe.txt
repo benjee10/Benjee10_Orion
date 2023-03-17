@@ -83,4 +83,5 @@ With thanks to DeltaDizzy (research) & Steven (screenshots & testing)
  
 LICENSE
 All Rights Reserved.
+Original artwork copyright Benedict Jewer 2023. 
 Dependencies are bundled under their respective licenses. 
